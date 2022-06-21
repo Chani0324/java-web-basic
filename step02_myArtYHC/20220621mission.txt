@@ -1,0 +1,10 @@
+미션
+1. step01로 servlet 기초 소양 review
+2. 개발
+    1. html
+        - insert.html : 직원정보 등록 화면
+        
+    2. servlet 
+        - InsertEmp.java
+            - html에 입력된 데이터를 받고 브라우저 출력
+            입사 축하 메세지와 insert.html에 입력된 정보 출력
